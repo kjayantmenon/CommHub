@@ -27,7 +27,7 @@ namespace Email.Channel
             try
             {
                 _logger.Information($"{ActivityId} Email successfully sent ");
-                var apiKey = "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";
+                var apiKey = "[API Key]";
 
                 foreach(var recepient in message.to)
                 {
