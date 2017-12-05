@@ -1,0 +1,15 @@
+networks:
+  default:
+    external:
+      name: nat
+services:
+  notificationsvc:
+    build:
+      context: C:\home\code\notificationsvc\NotificationSvc
+      dockerfile: Dockerfile
+    environment:
+      ASPNET_ENVIRONMENT: Development
+    image: notificationsvc
+    ports:
+    - 80/tcp
+version: '3.0'

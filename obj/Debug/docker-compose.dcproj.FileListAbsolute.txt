@@ -1,0 +1,1 @@
+C:\home\code\notificationsvc\obj\Debug\docker-compose.dcproj.CoreCompileInputs.cache

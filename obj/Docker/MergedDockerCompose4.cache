@@ -1,0 +1,29 @@
+networks:
+  default:
+    external:
+      name: nat
+services:
+  notificationsvc:
+    build:
+      args:
+        source: obj/Docker/empty/
+      context: C:\home\code\notificationsvc\NotificationSvc
+      dockerfile: Dockerfile
+    entrypoint: C:\\remote_debugger\\x64\\msvsmon.exe /noauth /anyuser /silent /nostatus
+      /noclrwarn /nosecuritywarn /nofirewallwarn /nowowwarn /timeout:2147483646
+    environment:
+      ASPNET_ENVIRONMENT: Development
+      DOTNET_USE_POLLING_FILE_WATCHER: '1'
+      NUGET_PACKAGES: C:\.nuget\packages
+    image: notificationsvc:dev
+    labels:
+      com.microsoft.visualstudio.debuggee.killprogram: C:\remote_debugger\x64\utils\KillProcess.exe
+        dotnet.exe
+      com.microsoft.visualstudio.debuggee.program: '"C:\Program Files\dotnet\dotnet.exe"'
+      com.microsoft.visualstudio.debuggee.workingdirectory: C:\app
+    ports:
+    - 80/tcp
+    volumes:
+    - C:\home\code\notificationsvc\NotificationSvc:C:\app:rw
+    - C:\Users\jayantki\onecoremsvsmon\15.0.26919.1:C:\remote_debugger:ro
+version: '3.0'

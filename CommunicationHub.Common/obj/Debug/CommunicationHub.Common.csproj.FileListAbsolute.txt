@@ -1,0 +1,8 @@
+C:\home\code\notificationsvc\CommunicationHub.Common\bin\Debug\CommunicationHub.Common.dll
+C:\home\code\notificationsvc\CommunicationHub.Common\bin\Debug\CommunicationHub.Common.pdb
+C:\home\code\notificationsvc\CommunicationHub.Common\obj\Debug\CommunicationHub.Common.csprojResolveAssemblyReference.cache
+C:\home\code\notificationsvc\CommunicationHub.Common\obj\Debug\CommunicationHub.Common.csproj.CoreCompileInputs.cache
+C:\home\code\notificationsvc\CommunicationHub.Common\obj\Debug\CommunicationHub.Common.dll
+C:\home\code\notificationsvc\CommunicationHub.Common\obj\Debug\CommunicationHub.Common.pdb
+C:\home\code\notificationsvc\CommunicationHub.Common\bin\Debug\Newtonsoft.Json.dll
+C:\home\code\notificationsvc\CommunicationHub.Common\bin\Debug\Newtonsoft.Json.xml

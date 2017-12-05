@@ -1,0 +1,59 @@
+2017-11-28 14:20:15.126 +05:30 [INF] Notify invoked!
+2017-11-28 14:20:28.615 +05:30 [INF] Notify complete!
+2017-11-28 14:54:15.347 +05:30 [INF] Notify invoked!
+2017-11-28 14:55:30.565 +05:30 [INF] Notify invoked!
+2017-11-28 14:55:34.349 +05:30 [INF] Notify complete!
+2017-11-28 15:14:59.727 +05:30 [INF] Notify invoked!
+2017-11-28 15:14:59.735 +05:30 [INF] Notification Manager
+2017-11-28 15:15:01.123 +05:30 [INF] Notify complete!
+2017-11-28 15:48:23.518 +05:30 [INF] Notify invoked!
+2017-11-28 15:48:23.537 +05:30 [INF] Notification Manager
+2017-11-28 15:48:26.356 +05:30 [INF] Notify complete!
+2017-11-28 17:52:36.879 +05:30 [INF] Notify invoked!
+2017-11-28 17:52:36.933 +05:30 [INF] Notification Manager
+2017-11-28 17:52:37.685 +05:30 [INF] Notify complete!
+2017-11-28 17:56:18.288 +05:30 [INF] Notify invoked!
+2017-11-28 17:56:18.351 +05:30 [INF] Notification Manager
+2017-11-28 17:56:19.855 +05:30 [INF] Notify complete!
+2017-11-28 19:25:17.383 +05:30 [INF] Notify invoked!
+2017-11-28 19:25:17.438 +05:30 [INF] 2c898251-7f07-4575-b1cf-e24c67c1d9ca Notification Manager - NotifyAsync - start
+2017-11-28 19:26:00.070 +05:30 [INF] Notify invoked!
+2017-11-28 19:26:03.596 +05:30 [INF] 6911d18c-5a4f-4fdf-9a8c-c366931b3155 Notification Manager - NotifyAsync - start
+2017-11-28 19:27:32.316 +05:30 [INF] Notify invoked!
+2017-11-28 19:27:42.046 +05:30 [INF] 5a5424f5-c5ad-408c-b7a0-fc710cfedcc6 Notification Manager - NotifyAsync - start
+2017-11-28 19:31:35.321 +05:30 [INF] Notify invoked!
+2017-11-28 19:32:04.711 +05:30 [INF] a6321b4a-fdbe-453b-841c-e8f48134dc21 Notification Manager - NotifyAsync - start
+2017-11-28 19:35:28.415 +05:30 [INF] Notify invoked!
+2017-11-28 19:35:37.472 +05:30 [INF] b153a613-b299-4d9c-b65c-641e380b7f05 Notification Manager - NotifyAsync - start
+2017-11-28 19:37:43.010 +05:30 [INF] Notify invoked!
+2017-11-28 19:37:59.925 +05:30 [INF] c5bec94d-6eb7-4498-8c10-335c7de98859 Notification Manager - NotifyAsync - start
+2017-11-28 19:39:12.771 +05:30 [INF] Notify invoked!
+2017-11-28 19:39:14.903 +05:30 [INF] 0d91aa4c-b92b-431f-8f4e-fc3fce6da679 Notification Manager - NotifyAsync - start
+2017-11-28 20:52:34.263 +05:30 [INF] Notify invoked!
+2017-11-28 20:52:43.057 +05:30 [INF] f10f95a8-1043-4805-ad93-f27c4cffc37d Notification Manager - NotifyAsync - start
+2017-11-28 20:55:55.493 +05:30 [INF] Notify invoked!
+2017-11-28 20:55:58.079 +05:30 [INF] 385ab551-d7a1-4cb1-8587-2648bd932c4b Notification Manager - NotifyAsync - start
+2017-11-28 20:56:15.011 +05:30 [INF] Notify invoked!
+2017-11-28 20:56:32.097 +05:30 [INF] fb6d68b7-0fb5-4d49-b81d-75d70ad6b0a7 Notification Manager - NotifyAsync - start
+2017-11-28 20:59:18.374 +05:30 [INF] Notify invoked!
+2017-11-28 20:59:21.687 +05:30 [INF] 94f16180-9509-44a0-b398-157f836feb84 Notification Manager - NotifyAsync - start
+2017-11-28 21:01:53.815 +05:30 [INF] Notify invoked!
+2017-11-28 21:02:06.283 +05:30 [INF] c1c1b25a-a61f-4691-b15f-d23b058cc7ae Notification Manager - NotifyAsync - start
+2017-11-28 21:07:33.990 +05:30 [INF] Notify invoked!
+2017-11-28 21:07:36.694 +05:30 [INF] c457135f-68c2-4074-a7a7-1d0d646bc6e1 Notification Manager - NotifyAsync - start
+2017-11-28 21:16:26.016 +05:30 [INF] Notify invoked!
+2017-11-28 21:16:27.881 +05:30 [INF] 8aed0a7b-04c0-4ccf-939b-73079f045c1f Notification Manager - NotifyAsync - start
+2017-11-28 21:16:49.336 +05:30 [INF] 8aed0a7b-04c0-4ccf-939b-73079f045c1f Email successfully sent 
+2017-11-28 21:16:53.889 +05:30 [INF] 8aed0a7b-04c0-4ccf-939b-73079f045c1f Email successfully sent 
+2017-11-28 21:16:54.354 +05:30 [INF] 8aed0a7b-04c0-4ccf-939b-73079f045c1f Email successfully sent 
+2017-11-28 21:16:55.300 +05:30 [INF] 8aed0a7b-04c0-4ccf-939b-73079f045c1f Email successfully sent 
+2017-11-28 21:16:55.354 +05:30 [INF] 8aed0a7b-04c0-4ccf-939b-73079f045c1f Notification Manager - NotifyAsync - start
+2017-11-28 21:16:55.357 +05:30 [INF] Notify complete!
+2017-11-28 21:18:46.598 +05:30 [INF] Notify invoked!
+2017-11-28 21:18:48.270 +05:30 [INF] 019fc954-0900-4eb2-a20d-a60051e0d1ff Notification Manager - NotifyAsync - start
+2017-11-28 21:18:49.897 +05:30 [INF] 019fc954-0900-4eb2-a20d-a60051e0d1ff Email successfully sent 
+2017-11-28 21:18:50.806 +05:30 [INF] 019fc954-0900-4eb2-a20d-a60051e0d1ff Email successfully sent 
+2017-11-28 21:18:51.058 +05:30 [INF] 019fc954-0900-4eb2-a20d-a60051e0d1ff Email successfully sent 
+2017-11-28 21:18:51.830 +05:30 [INF] 019fc954-0900-4eb2-a20d-a60051e0d1ff Email successfully sent 
+2017-11-28 21:18:51.835 +05:30 [INF] 019fc954-0900-4eb2-a20d-a60051e0d1ff Notification Manager - NotifyAsync - start
+2017-11-28 21:18:51.840 +05:30 [INF] Notify complete!
